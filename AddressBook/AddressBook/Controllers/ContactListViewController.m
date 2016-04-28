@@ -46,8 +46,6 @@ typedef enum {
 - (IBAction)segmentChanged:(id)sender;
 - (IBAction)pickerSelected:(id)sender;
 
-- (BOOL) isInternetConnectionAvailable;
-
 @end
 
 @implementation ContactListViewController
